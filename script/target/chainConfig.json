@@ -2,7 +2,7 @@
     "mainnet": {
         "rpcUrl": "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID",
         "gasLimit": 3000000,
-        "tokenAddress": "0xYourTokenAddressOnMainnet",
+        "contractArgs": {},
         "chainId": 1,
         "explorerUrl": "https://etherscan.io/",
         "nativeCurrency": "ETH"

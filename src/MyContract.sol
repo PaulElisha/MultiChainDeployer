@@ -2,5 +2,5 @@
 pragma solidity ^0.8.0;
 
 contract MyContract {
-    constructor(address tokenAddress) {}
+    constructor(string memory tokenAddress) {}
 }

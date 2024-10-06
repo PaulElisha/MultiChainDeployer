@@ -2,8 +2,8 @@
 pragma solidity ^0.8.0;
 
 import "forge-std/Test.sol";
-import "../src/MultichainDeployment.sol";
-import "../script/MultiChainDeploymentScript.s.sol";
+import "../src/MultiChainDeployment.sol";
+import "../script/Interactions.s.sol";
 import "../src/chainConfig.json";
 
 contract MultiChainDeploymentConfiguratorTest is Test {
